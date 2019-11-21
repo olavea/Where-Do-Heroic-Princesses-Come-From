@@ -9,9 +9,11 @@ At first they just dipped their feet into it. Then they went in up to their knee
 
 And they might well bathe. Nobody could see them there. The London road was a long way off and the forest was endless. If anyone were to catch sight of them, there would be trouble. Never mind the blond girl, she was just a guest, but the red haired Pellæ was supposed to be a boy. Everybody knew her as "that silent stableboy" at the castle.
 
-Why? You ask? Pellæ wouldn't tell you. She would say, "If you don't KNOW it's easier for you not to slip up and tell the wrong someone."
+Why? You ask? Pellæ wouldn't tell you. She would say, "If you don't KNOW it's easier for you not to slip up and tell the wrong someone." *
 
 Who is the wrong someone then? Even Pellæ didn't know THAT, she didn't care and she was frankly fed up with being bored on a beautiful spring day. So she slipped the little grey stallion out the stable backdoor without anyone seeing.
 
 To be continued.
 
+* The first
+Privacy be design

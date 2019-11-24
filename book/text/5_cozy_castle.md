@@ -4,7 +4,7 @@ The cozy castle Pellæ calles home, lies hidden deep in the green countryside. H
 
 There are no traitors here, because there are no reasons to betray Queen or Country. People live and die in their thatched houses in their little hidden village like woodland insects.
 
-The stablemaster looked at his apprentice Petroclus and saw a quiet, hard working, fast learning boy. "Oy! Boy! Brush the Grey." The stablemaster said, not needing to add that the Grey stallion hadn't seen a brush for days, Petroclus knew and probably would have brushed the Grey anyway. As Petroclus walked off with the good brush the stablemaster thought "I wish my other apprentices were more like you."
+The stablemaster looked at his apprentice Pellæ and saw a quiet, hard working, fast learning boy. "Oy! Boy! Brush the Grey." The stablemaster said, not needing to add that the Grey stallion hadn't seen a brush for days, Pellæ knew and probably would have brushed the Grey anyway. As Pellæ walked off with the good brush the stablemaster thought "I wish my other apprentices were more like you."
 
 Pellæ had brushed down and later gone into the forest with the Grey. On the way, she passed the library, a girl and a proud, pink, parrot had peeped out the double doors.
 

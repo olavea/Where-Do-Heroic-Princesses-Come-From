@@ -1,6 +1,4 @@
-
-Part 1
-Where Do Heroic Girls Come From?
+Where Do Heroic Girls Come From? Part 1
 
 A red haired girl and a blonde girl, are bathing in the stream. Their elders would not approve, but the redhead don't care, she is not quite twelve years old, the blonde girl is nine years.
 
@@ -14,9 +12,13 @@ The bigger girl's name is Pellæ, a few hours ago she slipped the little grey st
 
 To be continued.
 
-P.S
 
 
+
+
+
+P.S.
+Jeg trenger ikke feedback, det er nok at jeg har en håndfull ekte personer som jeg kan tenke på som lesere. Da er det lettere å fokusere når jeg skriver historien. Så takk for hjelpen så langt. 😺👍
 
 
 

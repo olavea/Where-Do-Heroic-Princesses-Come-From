@@ -32,7 +32,7 @@ Lillian's father looks up at Lillian from reading. She has been listening to him
 
 "Yes dad, look here."  Says Lillian.
 
-LINK to carrd and stripe
+LINK to Gatsby and stripe
 
 
 

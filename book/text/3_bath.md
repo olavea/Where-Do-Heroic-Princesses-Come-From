@@ -1,24 +1,39 @@
-Behind the tiny white tower, the winding road. Then the wide green forest and adventure. Adventure for a few hours.
+3
+Where Do Heroic Girls Come From?
+
+Up ahead she could see the white little library tower, with it's big red door and with it's tiny red shed. Behind the little library, the winding road. Then the wide forest and freedom, at least for a few hours.
+
+As she passed the library, a girl peeped out the little red door.
+
+"Boy! Boy!" the girl shouted, ran up to her in a shiny pink dress and grabbed her boot.
+
+ "My name is Lillian. Please let me come to! I am bored." The girl said .
+
+Pellæ hadn't played with a girl for years so she told the well mannered girl, "yes". Got off the horse, helped Lillian up and said,
+"I'll take you wherever you want to go."
+
+"I want to go where the butterflies go." Said Lillian. The butterflies flitted into the forest. So they rode in that direction.
+
+To be continued.
 
 
-"Lilly," she says to the smaller girl, "let's swim."
-
-The ___ blonde-haired girl she calls Lilly turns round in the sparkling water. Pellæ strikes out for the bank. While the blonde girl floats on her back and kicks hard on the surface of the water.
-
-And they might well swim. Nobody could see them there. The London road was a long way off and the forest was endless. If anyone were to catch sight of them, there would be trouble. Never mind the blond girl, she was just a guest, but the red haired girl, Pellæ, was supposed to be a boy. Everybody in the village knew her as "that silent stableboy" at the little castle.
-
-Why is she hiding as a boy, you ask? If Lilly had asked, Pellæ wouldn't have told her. She would say, "If you don't KNOW it's easier for you not to slip up and tell someone."
-
-The truth was that Pellæ didn't know who she was hiding from or why. Something about her father's enemies or something.
-
-But when the two girls reach the bank, Pellæ grasps the green clump of bulrushes and looks around anxiously.
-
-"Oh, what's happened to my little grey stallion?"
-
-To be continued
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+What is the
+* The First Law Lillian asked her dad
 
 
 
@@ -35,7 +50,7 @@ To be continued
 "Know if my Tools for example ..." said Lillian
 
 What is the
-* The Third Law Lillian asked her dad
+* The First Law Lillian asked her dad
 
 
 *

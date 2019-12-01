@@ -1,5 +1,4 @@
-3
-Where Do Heroic Girls Come From?
+Where Do Heroic Girls Come From? Part 3
 
 Up ahead she could see the white little library tower, with it's big red door and with it's tiny red shed. Behind the little library, the winding road. Then the wide forest and freedom, at least for a few hours.
 
@@ -17,6 +16,8 @@ Pellæ hadn't played with a girl for years so she told the well mannered girl, "
 To be continued.
 
 
+P.S.
+Jeg trenger ikke feedback ser jeg nå. Det er nok at jeg har en håndfull ekte personer som jeg kan tenke på som lesere. Da er det lettere å fokusere når jeg skriver historien. Så takk for hjelpen så langt. 😺👍
 
 
 

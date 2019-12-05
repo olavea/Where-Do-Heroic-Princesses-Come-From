@@ -51,6 +51,7 @@ When you are there
 cmd + f on a mac or
 ... + f on a pc.
 
+`redirectToCheckout`
 2
 Copy / paste (cmd + c and cmd + v) in this word
 

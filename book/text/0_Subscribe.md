@@ -1,3 +1,5 @@
+The Queen, the Assassin and Two Teenage Girls
+
 The Queen, the Assassin and the Two Teenage Girls
 Can Lillian (13) stop the assassination of the Queen AND keep out of prison, together with Pellæ, her heroine?
 

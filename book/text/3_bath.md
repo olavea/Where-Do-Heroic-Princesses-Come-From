@@ -1,4 +1,5 @@
-Where Do Heroic Girls Come From? Part 3
+Part 3
+Where Do Heroic Girls Come From?
 
 Up ahead she could see the white little library tower, with it's big red door and with it's tiny red shed. Behind the little library, the winding road. Then the wide forest and freedom, at least for a few hours.
 
@@ -16,11 +17,25 @@ Pellæ hadn't played with a girl for years so she told the well mannered girl, "
 To be continued.
 
 
+Tiny Tasks for Non-devs
+
+Get a GitHub account
+https://github.com/
+
+It is where We store our code together
+
+Tiny Tasks for devs
+...
+
+Enjoy your day and suddenly you'll get another tiny tale from Lilly Labs, written by Ola Vea
+
+
 P.S.
 Jeg trenger ikke feedback ser jeg nå. Det er nok at jeg har en håndfull ekte personer som jeg kan tenke på som lesere. Da er det lettere å fokusere når jeg skriver historien. Så takk for hjelpen så langt. 😺👍
 
 
 
+out😺😺
 
 
 

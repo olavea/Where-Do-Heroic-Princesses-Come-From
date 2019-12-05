@@ -1,35 +1,74 @@
-Where Do Heroic Girls Come From? Part 4
+The Queen, the Assassin and The Teenage Girls
+Part 4
+Where Do Heroic Girls Come From?
 
 "Lillian," Pellæ says to the smaller girl, "let's swim."
 
-The blonde-haired girl she calls Lillian turns round in the sparkling water. Pellæ strikes out for the bank. While the blonde girl floats on her back and kicks hard splashing sparkling drops high up.
+The blonde-haired girl she calls Lillian turns round in the sparkling water. Pellæ strikes out for the bank. While the blonde girl floats on her back and kicks hard splashing high up.
 
-And they might well swim. Nobody could see them there. The London road was a long way off and the forest was endless. But if anyone WERE to catch sight of them, there would be trouble. Never mind the blond girl, but the red haired girl, Pellæ, was supposed to be a boy. Everybody in the village knew Pellæ as "that silent stableboy" living up in the cozy castle.
+And they might well swim. Nobody could see them there. The London road was a long way off and the forest was wild. But if anyone WERE to catch sight of them, there would be trouble. Never mind the blond girl, but the red haired girl, Pellæ, was supposed to be a boy. Everybody in the village knew Pellæ as "that silent stableboy" living up in the cozy castle.
 
-But Lillian came from far away and didn't see things the way the villagers saw things, so she asked,
+But Lillian came from far away, so she asked,
 "why are you dressed up as a boy Pellæ?"
 
 Pellæ looked annoyed and said,
-"If you don't KNOW why it's easier for you to NOT tell the wrong someone."
+"It is better for you if you don't KNOW why because then it's easier for you to NOT tell the wrong someone."
 
-"Yeah, I know. Ok then." Lillian said with a disappointed voice.
+"Yeah, well. Ok then." Lillian said with a disappointed voice.
 
-"Sorry. I don't really know why. It is something about hiding from my father's enemies or something.
+"Sorry. I don't actually know why and my uncle gave that exact reason." Pellæ said with knitted eyebrows.
 
-"Oh! Ok..." Lillian said with knitted eyebrows.
+"Oh! Ok..." Lillian said smiling.
 
-"But. I know WHO to hide from, the black masked inquisitors. If inquisitors show up, I am to run off to London and hide there. In London, one more boy is just one more boy among a thousand boys in the streets. So my uncle James told me. He said, get to London, send me a note and blend in while you wait a few days for me to find a way to help hide you. So that is my plan."
+"I may not know why, but I know WHO. The black masked inquisitors. If inquisitors show up, I am to run off to London and hide there. My uncle James said, get to London, send me a note and blend in while you wait a few days for me to help hide you. So that is my plan B."
 
-"Wow! What a great plan! Let's go to London and blend in right now!" Lillian smiled with her whole face.
+Lillian smiled with her whole face and burst out:
+"Wow! What a great plan! Let's go to London and we could maybe help the young Queen against her enemies. I bet the Queen has some exitingly dangerous enemies and ..."
 
-"Easy now. I am not running off to London if I don't need to hide." said Pellæ shaking her head slowly.
+"Eeeaasy now. I am NOT running off to London. Is there a wild forest in London? Hm?" said Pellæ shaking her head slowly.
 
-But when the two girls reach the bank, Pellæ grasps the green clump of bulrushes and looks around anxiously.
+"Nooo..., but what if we helped stop an assassin from killing the Queen and ...
+
+"hush!"
+
+The two girls reach the bank, Pellæ grasps the green clump of bulrushes and looks around anxiously.
 
 "Oh, what's happened to my little grey pony?"
 
 To be continued.
 
+
+Todays Tiny Tasks for Non-devs
+Take a look at
+how Benedicte makes sure nobody can read the card numbers of her backers
+__
+
+If the user clicks the payment button, she is redirected to a page where she may write her card number and it is all good because Stripe makes sure her card number is always unreadable.
+
+Go to the [POW! code on GitHub by clicking this link](https://github.com/raae/pow-app/blob/master/src/components/AngelsCheckout.js)
+
+
+When you are there
+1
+cmd + f on a mac or
+... + f on a pc.
+
+2
+Copy / paste (cmd + c and cmd + v) in this word
+
+redirectToCheckout
+
+3
+Look at the payment button on usepow.app/angels
+
+
+
+(cmd + f on a mac or ... + f on a pc
+(cmd + c and cmd + v)
+...
+
+
+Enjoy your day and suddenly you'll get another tiny tale from Lilly Labs, written by Ola Vea
 
 
 Enjoy your day and don't be surprised if you suddenly get another tiny tale from Lilly Labs, written by:
@@ -52,20 +91,10 @@ Now if mom tries to read my note, she will see
 
 '8rY7...blaBlaBla!'
 
-Because of, you know,... crypto." Lillian said.
+Because of, you know,... crypto something." Lillian said.
 
 "Good" Her dad said.
 
+"But. Didn't we do a crypto thing with Stripe?" Lillian said.
 
-
-
-
-
-
- said Lillian.
-
-
-
-
-
-
+"Yeah, show me on github." Her dad said.

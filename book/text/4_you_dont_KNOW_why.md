@@ -1,6 +1,8 @@
 # The Queen, the Assassin and The Teenage Girls
-## Part 4
+
+## Chapter 1
 ## Where Do Heroic Girls Come From?
+## Page 4
 
 "Lillian," Pellæ says to the smaller girl, "let's swim."
 
@@ -41,7 +43,7 @@ The two girls reach the bank, Pellæ grasps the green clump of bulrushes and loo
 ## Todays Tiny Tasks for Non-devs:
 Take a look at how Benedicte makes sure nobody can read the card numbers of her donators to POW!
 
-If the user clicks the payment button, she is redirected to a page where she may write her card number and it is all good because Stripe makes sure her card number is always unreadable.
+Imagine you are the user clicking the payment button, you get redirected to a page where you write your card number and it is all good because Stripe makes sure your card number is always unreadable.
 
 Go to the [POW! code on GitHub by clicking this link](https://github.com/raae/pow-app/blob/master/src/components/AngelsCheckout.js)
 
@@ -51,28 +53,17 @@ When you are there
 cmd + f on a mac or
 ... + f on a pc.
 
-`redirectToCheckout`
+
 2
-Copy / paste (cmd + c and cmd + v) in this word
+Copy / paste in this word `redirectToCheckout` in the "find" thing.
 
-`\redirectToCheckout```
-```redirectToCheckout```
-`redirectToCheckout`
 3
-Look at the payment button on usepow.app/angels
+As you see the code says
+`stripe.redirectToCheckout`
 
+The `stripe.` part means that it is Stripe doing some crypto thing that makes your card number always unreadable.
 
-
-(cmd + f on a mac or ... + f on a pc
-(cmd + c and cmd + v)
-...
-
-
-Enjoy your day and suddenly you'll get another tiny tale from Lilly Labs, written by Ola Vea
-
-
-Enjoy your day and don't be surprised if you suddenly get another tiny tale from Lilly Labs, written by:
-Ola Vea | ReactJS Apprentice at Lilly Labs: a teeny-tiny IT-consultancy | 997 85 291
+Enjoy your day and don't be surprised if you suddenly get another tiny tale from Lilly Labs, written by:Ola Vea | ReactJS Apprentice at Lilly Labs: a teeny-tiny coding consultancy | 997 85 291
 
 P.S.
 "I know what you are going to ask dad. The answer is The First Law." said Lillian.
@@ -98,3 +89,15 @@ Because of, you know,... crypto something." Lillian said.
 "But. Didn't we do a crypto thing with Stripe?" Lillian said.
 
 "Yeah, show me on github." Her dad said.
+
+
+
+
+
+
+out😺😺
+
+
+(cmd + f on a mac or ... + f on a pc
+(cmd + c and cmd + v)
+...

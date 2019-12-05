@@ -3,11 +3,11 @@ Where Do Heroic Girls Come From?
 
 Up ahead she could see the white little library tower, with it's big red door and with it's tiny red shed. Behind the little library, the winding road. Then the wide forest and freedom, at least for a few hours.
 
-As she passed the library, a girl peeped out the little red door.
+As Pellæ passed the library, a girl peeped out the little red door.
 
 "Boy! Boy!" the girl shouted, ran up to her in a shiny pink dress and grabbed her boot.
 
- "My name is Lillian. Please let me come to! I am bored." The girl said .
+ "My name is Lillian. Please let me come to! I am bored." The girl said.
 
 Pellæ hadn't played with a girl for years so she told the well mannered girl, "yes". Got off the horse, helped Lillian up and said,
 "I'll take you wherever you want to go."
@@ -37,7 +37,20 @@ Jeg trenger ikke feedback ser jeg nå. Det er nok at jeg har en håndfull ekte p
 
 out😺😺
 
+text on mailChimp
+Preview
+As she passed the library, a girl peeped out the little red door. "Boy! Boy!" the girl shouted, ran up to her in a shiny pink dress and ...
 
+in email
+As she passed the library, a girl peeped out the little red door.
+
+"Boy! Boy!" the girl shouted, ran up to her in a shiny pink dress and grabbed her boot.
+
+ "My name is Lillian. Please let me come to! I am bored." The girl said.
+
+
+Read more on GitHub and see Todays Tiny Tasks
+https://github.com/olavea/Where-Do-Heroic-Women-Come-From/blob/master/book/text/3_bath.md
 
 
 

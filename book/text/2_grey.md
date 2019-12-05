@@ -43,8 +43,9 @@ Lillian's father looks up at Lillian from reading. She has been listening to him
 
 "Can you show me an example of how you have practiced with Stripe API?" Asked her dad.
 
-"Yes dad, look here."  Says Lillian.
-
+"Yes dad, look here on GitHub." Says Lillian.
+[Yes dad, look here on GitHub](https://github.com/olavea/Where-Do-Heroic-Women-Come-From/blob/master/book/LinkText/2_grey_Stripe.md)
+https://github.com/olavea/Where-Do-Heroic-Women-Come-From/blob/master/book/LinkText/2_grey_Stripe.md
 
 
 out😺😺

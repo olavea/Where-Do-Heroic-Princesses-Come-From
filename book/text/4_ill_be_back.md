@@ -1,6 +1,6 @@
-#The Queen, the Assassin and The Teenage Girls
-##Part 4
-##Where Do Heroic Girls Come From?
+# The Queen, the Assassin and The Teenage Girls
+## Part 4
+## Where Do Heroic Girls Come From?
 
 "Lillian," Pellæ says to the smaller girl, "let's swim."
 
@@ -20,7 +20,7 @@ Pellæ looked annoyed and said,
 
 "Oh! Ok..." Lillian said smiling.
 
-"I may not know why, but I know WHO. The black masked inquisitors. If inquisitors show up, I am to run off to London and hide there. My uncle James said, get to London, send me a note and blend in while you wait a few days for me to help hide you. So that is my plan B."
+"I may not know why, but I can tell you WHO I am hiding from dressed up as a boy. The black masked inquisitors. If inquisitors show up, I am to run off to London and hide there. My uncle James said, get to London, send me a note and blend in while you wait a few days for me to help hide you. So that is my plan B."
 
 Lillian smiled with her whole face and burst out:
 "Wow! What a great plan! Let's go to London and we could maybe help the young Queen against her enemies. I bet the Queen has some exitingly dangerous enemies and ..."

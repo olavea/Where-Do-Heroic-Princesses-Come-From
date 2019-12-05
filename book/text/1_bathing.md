@@ -13,18 +13,15 @@ The bigger girl's name is Pellæ, a few hours ago she slipped the little grey po
 
 To be continued.
 
-Tiny Tasks for Non-devs
 
-Get a GitHub account
-https://github.com/
+Tiny Tasks
+1. Get an account on GitHub
 
-It is where We store our code together
+It is where we store our code so we can work together.
+2. Say "Hi" in a comment on this "issue" on gitHub
 
-Tiny Tasks for devs
-...
-
-
-Enjoy your day and suddenly you'll get another tiny tale from Lilly Labs, written by Ola Vea
+Enjoy your day and don't be surprised if you suddenly get another tiny tale from Lilly Labs, written by:
+Ola Vea | ReactJS Apprentice at Lilly Labs: a teeny-tiny coding consultancy | 997 85 291
 
 P.S.
 Jeg trenger ikke feedback, det er nok at jeg har en håndfull ekte personer som jeg kan tenke på som lesere. Da er det lettere å fokusere når jeg skriver historien.

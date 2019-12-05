@@ -35,13 +35,11 @@ The two girls reach the bank, Pellæ grasps the green clump of bulrushes and loo
 
 "Oh, what's happened to my little grey pony?"
 
-To be continued.
+**To be continued.**
 
 
-Todays Tiny Tasks for Non-devs
-Take a look at
-how Benedicte makes sure nobody can read the card numbers of her backers
-__
+## Todays Tiny Tasks for Non-devs:
+Take a look at how Benedicte makes sure nobody can read the card numbers of her donators to POW!
 
 If the user clicks the payment button, she is redirected to a page where she may write her card number and it is all good because Stripe makes sure her card number is always unreadable.
 
@@ -56,8 +54,9 @@ cmd + f on a mac or
 2
 Copy / paste (cmd + c and cmd + v) in this word
 
-redirectToCheckout
-
+`\redirectToCheckout```
+```redirectToCheckout```
+`redirectToCheckout`
 3
 Look at the payment button on usepow.app/angels
 

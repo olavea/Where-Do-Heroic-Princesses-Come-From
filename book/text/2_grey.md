@@ -2,7 +2,17 @@ The Queen, the Assassin and Two Teenage Girls
 Part 2
 Where Do Heroic Girls Come From?
 
-The older girls name is Pellæ. She had finished all her days tasks in the stable. So before she got bored she slipped the little grey pony out the stable backdoor without anyone seeing.
+The older girls name is Pellæ. She had finished all her days tasks in the stable. So before
+
+SAVES the Pony from ...
+being ridden by that clumsy lordling, the lords rude son,
+being sold? to that bortskjemt boy
+veterinærian
+bored
+
+
+
+ she got bored she slipped the little grey pony out the stable backdoor without anyone seeing.
 
 The "without anyone seeing" part was no accident. A dramatic distraction in the kitchens had everybody running towards the black smoke. Pellæ heard distressed voices getting distant as she looked over her shoulder at the castle kitchens disappearing behind a bend in the road. Soon, birdsong was all she could hear. Birdsong and "Clippety-clop."
 
@@ -13,15 +23,7 @@ Up ahead in the golden fields she could see the little white library tower, with
 To be continued.
 
 
-Tiny Tasks for Non-devs
 
-Get a GitHub account
-https://github.com/
-
-It is where We store our code together
-
-Tiny Tasks for devs
-...
 
 Enjoy your day and suddenly you'll get another tiny tale from Lilly Labs, written by Ola Vea
 

@@ -1,5 +1,5 @@
-The Queen, the Assassin and Two Teenage Girls Part 1
 Where Do Heroic Girls Come From?
+Page 1
 
 A red haired girl and a blonde girl, are bathing in the stream. Their elders would not approve, but the redhead don't care, she is not quite fifteen years old, the blonde girl is thirteen years.
 
@@ -13,12 +13,15 @@ The bigger girl's name is Pellæ, a few hours ago she slipped the little grey po
 
 To be continued.
 
-
+P.S
 Tiny Tasks
 1. Get an account on GitHub
 
 It is where we store our code so we can work together.
 2. Say "Hi" in a comment on this "issue" on gitHub
+
+3.
+The soon the emails will be mainly on gitHub, so be there or be square. 😺
 
 Enjoy your day and don't be surprised if you suddenly get another tiny tale from Lilly Labs, written by:
 Ola Vea | ReactJS Apprentice at Lilly Labs: a teeny-tiny coding consultancy | 997 85 291
@@ -56,17 +59,5 @@ Build your thing
 Privacy be design
 Don't touch the secret of your neighbour
 
-The Third Law, Book 1 The Mask Itself, Part 1 Where Do Heroic Women Come From?
 
 
-
-
-
-And they might well bathe. Nobody could see them there. The London road was a long way off and the forest was endless. If anyone were to catch sight of them, there would be trouble. Never mind the blond girl, she was just a guest, but the red haired Pellæ was supposed to be a boy. Everybody knew her as "that silent stableboy" at the castle.
-
-Why? You ask? Pellæ wouldn't tell you. She would say, "If you don't KNOW it's easier for you NOT to slip up and tell the wrong someone." *
-
-Who is the wrong someone then? Even Pellæ didn't know THAT,
-
-P.S
-Why wouldn't she tell her secret?

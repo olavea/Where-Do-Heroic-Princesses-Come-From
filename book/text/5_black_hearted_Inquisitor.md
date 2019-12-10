@@ -1,23 +1,57 @@
+Welcome to this email 😺where I will start showing you how Benedicte builds POW!
+
+If you chose to do all the tiny tasks you will end up building your own webapp, and while you are bulilding you will better understand Benedicte's building philosophy.
+
+AND you will have fun building.
+
+And in time you will learn to love some of the tools of our trade, other tools you will learn to hate 😜.
+
+So open your heart for:
+
+Today's Tiny Tasks
+1. Go to this link on GitHub
+
+2. Find where Benedicte has written "Lag en knapp, commit og push."
+
+Explanation:
+In developer english this translates as "Ola, make a button and show me your code here on GitHub."
+
+3. Before you go looking at my code remember, you will build this button yourself in a few weeks.
+
+4. Read my code from the top,
+When you find the button, stop.
+
+Here is thelink on GitHub
+
+5. That's all the Tiny Tasks for today. And now, todays tiny tale:
+
+
+Where Do Heroic Girls Come From?
+Page 5
 
 "Oh, what's happened to my little grey pony?"
 
-Pellæ steps out of the water and runs here and there, peering among the trees. She examines the ground for hoofprints.
+Pellæ steps out of the water and examines the ground for hoofprints.
 
-"Wait for me, Lillian," she shouts to the girl, "Wait for me, I'll be back soon!" And naked as she is, she dashes off. Following the hooftracks towards the London road.
+"Wait for me, Lillian," she shouts, "Wait for me, I'll be back soon!" And naked as she is, she dashes off. Following the hooftracks towards the London road.
 
 A few minutes later she comes back with the little grey pony. She holds the thin rope that had been tied to its feet, it is bitten clean through.
 
-The red haired girl silently strikes the horse with a bough of cornelia cherry. Her face is pale with terror, she keeps glancing over her shoulder.
+The red haired girl silently strikes the horse with a bough of cornelian cherry dogwood. Her face is pale with terror, she keeps glancing over her shoulder.
 
 "Hide!" Pellæ whispers shivering. "Hide! There's an Inquisitor coming."
 
-With a couple of tugs she tethers the grey horse to a tree. She snatches her clothes from the ground and the two girls run naked to a __ bush. They hide. Crouching on the dead leaves behind the __ bush.
+With a couple of tugs she tethers the grey horse to a tree. She snatches her clothes from the ground and the two girls run naked to a juniper bush. They hide. Crouching on the dead leaves behind the juniper bush.
 
 "I am a boy," Pellæ hisses
 
 "WHAT?!" Lillian is gaping.
 
 "If that black hearted Inquisitor catches us. I. Am. A. Boy. OK?" Pellæ is hissing too close to Lillian's ear. It hurts, almost.
+
+To be continued.
+
+---
 
 "OK, you are a boy." Lillian shakes her head.
 
@@ -28,7 +62,7 @@ So put aside this years calendar reader, and in your mind bring out the calendar
 Pellæ has day dreamed about dramatically saving the hansome young Queen from assasination attempts. Now Pellæ needs to save herself and her new friend from the chains of the Inquisition. The Inquisition is not the real name of the sneaky secret police force organized by Elizabeth's left hand man, Sir Francis Walsingham, it is just Pellæ's nick name for them.
 
 
-To be continued
+To be continued.
 
 
 

@@ -14,13 +14,23 @@ The bigger girl's name is Pellæ, a few hours ago she slipped the little grey po
 To be continued.
 
 P.S
-Tiny Tasks
-1. Get an account on GitHub
 
-It is where we store our code so we can work together.
-2. Say "Hi" in a comment on this "issue" on gitHub
 
-3.
+GitHub is where we work together and store our code.
+
+Todays Tiny Tasks
+
+1. Go to this link on GitHub
+https://github.com/raae/pow-app/issues/36
+
+
+2. Find the task
+"lag en knapp, commit og push"
+
+3. In english that means "make the smallest possible thing, like a skateboard and show me that it rolls."
+
+
+
 The soon the emails will be mainly on gitHub, so be there or be square. 😺
 
 Enjoy your day and don't be surprised if you suddenly get another tiny tale from Lilly Labs, written by:

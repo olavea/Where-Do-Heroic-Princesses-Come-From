@@ -40,30 +40,35 @@ The two girls reach the bank, Pellæ grasps the green clump of bulrushes and loo
 **To be continued.**
 
 
-## Todays Tiny Tasks for Non-devs:
+## Todays Tiny Tasks
 Take a look at how Benedicte makes sure nobody can read the card numbers of her donators to POW!
 
-Imagine you are the user clicking the payment button, you get redirected to a page where you write your card number and it is all good because Stripe makes sure your card number is always unreadable.
+0.
+Close your eyes and Imagine you are the user clicking the payment button, you get redirected to a page where you write your card number and it is all good because Stripe makes sure your card number is always unreadable.
 
+1.
 Go to the [POW! code on GitHub by clicking this link](https://github.com/raae/pow-app/blob/master/src/components/AngelsCheckout.js)
 
-
 When you are there
-1
+
+2.
 cmd + f on a mac or
 ... + f on a pc.
 
 
-2
+3.
 Copy / paste in this word `redirectToCheckout` in the "find" thing.
 
-3
+4.
 As you see the code says
 `stripe.redirectToCheckout`
 
+5.
 The `stripe.` part means that it is Stripe doing some crypto thing that makes your card number always unreadable.
 
-Enjoy your day and don't be surprised if you suddenly get another tiny tale from Lilly Labs, written by:Ola Vea | ReactJS Apprentice at Lilly Labs: a teeny-tiny coding consultancy | 997 85 291
+Enjoy your day and don't be surprised if you suddenly get another tiny tale from Lilly Labs, written by:
+
+ Ola Vea | ReactJS Apprentice at Lilly Labs: a teeny-tiny coding consultancy | 997 85 291
 
 P.S.
 "I know what you are going to ask dad. The answer is The First Law." said Lillian.
@@ -101,3 +106,6 @@ out😺😺
 (cmd + f on a mac or ... + f on a pc
 (cmd + c and cmd + v)
 ...
+
+
+

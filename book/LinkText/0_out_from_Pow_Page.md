@@ -1,0 +1,2 @@
+How do we protect our most intimate thoughts and feelings from the forces of darkness? You can follow along on our learning journey in
+ [this weekly email written by Ola Vea](http://eepurl.com/gBCgT9).

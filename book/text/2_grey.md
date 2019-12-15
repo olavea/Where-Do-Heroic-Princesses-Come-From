@@ -1,3 +1,108 @@
+Welcome back to The Sunday POW!
+
+Todays guest is Lillian Raae-Vea (5 🦄). She'll introduce today's tiny tasks with a story:
+
+"Go set up a button for payment on the POW! page." Mom told dad and me. "Use Stripe." She said.
+
+So dad showed me how to use the window.Stripe(stripeKey) to "unlock" Stripe with mom's stripeKey. Then dad said "I'll start the developer server and you can click the donate button. As a test."
+
+Did it work? No! We got this ugly error message instead:
+
+Error this.Stripe is undefined
+Error this.Stripe is undefined
+Error this.Stripe is undefined
+Error this.Stripe is undefined
+
+In big, blood red letters on black. I cannot read, but I didn't NEED to read I felt it in my gut "BAD!"
+
+"Goooood!" Dad said. "Now we can bugfix together. We'll follow these six steps: RAD CAT.
+Read and
+Ask.
+Docz and
+Compare.
+Again and
+Try."
+
+1. Read
+Read out loud to find the line in the error that tells you what happened.
+
+"What line is that?" Ola asks.
+
+"Error this.Stripe is undefined ..." Lillian answers.
+
+"Yes." Ola says.
+
+2. Ask
+Ask yourself 'Can I find the Fix inside the error message?'
+
+"Can you?" Ola asks.
+
+"No..." Lillian answers
+
+"Right!"
+
+3. Docz
+
+"Now let's find docz for doing what we are doing." Ola says.
+
+"What are docz?" Lillian asks.
+
+"Docz are like Baker Master Bunny's gingerbread baking song, do you remember it?" Ola asks.
+
+"Yes. Når eeeeen pepperkaker baker baker pepperkaker kaker tar han først en ..."
+
+"Good, good" Ola says.
+
+4. Compare
+
+Compare use case.
+
+"Are we trying to do the exact same gatsby + stripe thing they describe here in these docz?" Ola asks.
+
+"Øh..." Lillian answers.
+
+"Yes, yes we are. It is like in the Claus Climbermouse and the other animals in the Huckybucky forest book. We are like the baker's apprentice baking gingerbread, but ..."
+
+"He did it wrong." Lillian says.
+
+"Right. So what does the baker's apprentice have to do in the Claus Climbermouse and the other animals in the Huckybucky forest book?" Ola asks.
+
+"Go and mind the store, while the Baker Master Bunny is baking the gingerbread cookies." Lillian answers.
+
+"Eh, well ... Yes..."
+
+"Bake again, but this time bake like in the song!" Lillian shouts.
+
+"Yess!" Ola says.
+
+5. Again
+So we just do it again, but this time we do it exactly as the docz say. And you write what we do in your little red logbook. (Or pretend that you did it and write it down anyway, dear reader.)
+
+"Here is your logbook Lillian, write:
+'Terminal 💀' here in the top left corner. Draw a tiny skull. Then under that
+'gatsby-plugin-stripe' and then under that
+'gatsby develop' and then under that
+'Terminal 💀, over and out' and then under that
+
+'Go look in gatsby-config.js on GitHub and find gatsby-plugin-stripe in the plugins array.' There it is good." Ola says.
+
+"Can I push the button now?" Lillian asks.
+
+"Yes, soon. But what do we do if the bug doesn't go away and we get the same error message again?" Ola asks.
+
+"Try and try?" Lillian says.
+
+6. Try
+"Try from the top: RAD CAT, but now you can push the pay button." Ola says.
+
+"It works 😅!" Lillian says.
+
+ Ola asks.
+ Ola says.
+  Lillian says.
+    Lillian asks.
+ Lillian answers.
+
 The Queen, the Assassin and Two Teenage Girls
 Part 2
 Where Do Heroic Girls Come From?

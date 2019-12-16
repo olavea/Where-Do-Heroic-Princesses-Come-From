@@ -85,6 +85,8 @@ So we just do it again, but this time we do it exactly as the docz say. And you 
 'Terminal 💀, over and out' and then under that
 
 'Go look in gatsby-config.js on GitHub and find gatsby-plugin-stripe in the plugins array.' There it is good." Ola says.
+https://github.com/raae/pow-app/blob/master/gatsby-config.js
+
 
 "Can I push the button now?" Lillian asks.
 

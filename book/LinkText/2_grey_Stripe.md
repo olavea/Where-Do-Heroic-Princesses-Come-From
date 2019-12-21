@@ -1,3 +1,57 @@
+
+
+
+
+6.
+you will build this ______ in your book:
+
+...
+...{
+    ...
+      ...stripe = window.Stripe("pk_test_XiirziufElakjoOpyuyCrPfo")
+    }
+    ... redirectToCheckout(event) {
+      ...
+      const { ... } = ... ....stripe.redirectToCheckout({
+        items: [{ sku: "sku_Fvit7rtTpQFLdF", quantity: 1 }],
+        successUrl: `https://www.usepow.app/YoHoho`
+        ...
+      })
+      if (...) {...("...:", ...)}
+    }
+    ...
+     ...
+      <button
+        onClick={(event) => this.redirectToCheckout(event)}
+      >
+        Invest in POW! $54
+      </button>
+...
+
+a pretend version of the real code:
+
+const Checkout = class extends React.Component {
+
+
+  componentDidMount() {
+    this.stripe = window.Stripe("pk_test_XiirziufElakjoOpyuyCrPfo")
+  }
+  async redirectToCheckout(event) {
+    event.preventDefault()
+    const { error } = await this.stripe.redirectToCheckout({
+      items: [
+        { sku: "sku_Fvit7rtTpQFLdF", quantity: 1, name: "GOLD" },
+
+
+
+
+
+
+
+
+
+
+
 v.
 ... i 2019
 Mamma ga oss oppgaven
@@ -16,6 +70,7 @@ og
 
 ii.
 Fordi du ville "låse opp" Stripe Checkout med mammas Stripe Nøkkel 🔑
+
 
 1_year_of_POW-LINK to Gatsby and stripe-email-2-bullet-ii
 
@@ -37,3 +92,5 @@ Stripe reklame:
 
 <Lillian med hest bak i Budapest>
 usePow.app/angels
+
+

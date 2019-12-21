@@ -1,3 +1,18 @@
+The POW! Weekly
+
+An email about independent Fullstack Dev contractor
+
+Benedicte building POW!
+
+And learning as she goes. AND teaching Web Dev Newbies Lillian Raae-Vea (5 🦄) and Ola Vea (42).
+
+​
+
+We will send you tiny tales and tiny tasks, no spam. Unsubscribe at any time.
+Powered By ConvertKit
+
+
+----
 The Sunday POW! Mail​
 
 POW!​ Sunday

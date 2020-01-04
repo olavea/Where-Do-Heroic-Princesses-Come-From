@@ -3,20 +3,133 @@ Welcome back to The Lilly Monthly 😺
 Today we will start off with a message from Lillian Raae-Vea (5 🦄):
 
 Mom told dad and me, "build me a bank card payment thingy on the POW! page. With Stripe. And you guys, make SURE it's properly encrypted."
-Dad and me​, we connected the Stripe API to the POW! page​. Because Mom wanted us to "unlock" 🔓​the stripe "window" with her test stripeKey 🔑​
+
+Dad and me, we connected the Stripe API to the POW! page. Because Mom wanted us to "unlock" 🔓the stripe "window" with her test stripeKey 🔑
+
 "Thank you Lillian and what do YOU think, should we ask our reader to do what we did?" I said.
 
 "Good idea! But shouldn't you explain what it all means first?" Lillian said.
 
-"No, I am sorry about not explaining first, but that would not be the Ola–Vea–way. Would it? No. Build first, learn later." I said.​
+"No, I am sorry about not explaining first, but that would not be the Ola–Vea–way. Would it? No. Build first, learn later." I said.
+
 Today's Tiny Tasks have two parts
 
 Part One
 
+Setting up a Gatsby site​ and adding the StripeJS plugin
 
 1.
-Take out your Lilly Building Note Book and your favorite pen or pencil. Open to a clean double page. Follow my instructions in 6 to 14 and you will build this pretend site in your pretend​ "terminal 💀":
-2. Start in the top right corner and go x pinky nails to the left. Write
+Take out your Lilly Building Note Book and your favorite pen or pencil. Open to a clean double page.
+2.
+
+Follow my instructions in 3 to 5 and you will build this pretend site in your pretend "terminal 💀":
+                                       terminal 💀​
+gatsby new pretend-site
+​
+​cd pretend-site​
+
+​yarn add gatsby​-plugin-stripe
+
+
+
+
+3.
+Start in the top right corner and go x pinky nails to the left. Draw
+a tiny skull 💀. And then write
+​
+
+4.
+
+"terminal" to the left of the tiny skull 💀. And then on the next line far to the left write​:
+​
+
+5.
+
+gatsby new pretend-site​​ . And then on the next line write:​
+
+
+
+6.
+
+cd pretend-site​​ . And then on the next line write: ​
+
+
+
+7.
+
+yarn add gatsby​-plugin-stripe​. And then on the next line write: ​
+
+
+
+8.
+
+terminal 💀​over and out
+
+
+
+9.
+
+Don't go find gatsby​-plugin-stripe on line 55 or something​ inside gatsby​-​config.js in the POW! code on github.com.
+
+
+
+Today's Tiny Tasks
+
+
+Part Two
+Borrow Benedicte's test stripeKey 🔑​to "unlock" 🔓​the stripe window
+
+10
+
+
+
+13. You will build this ___ in your book
+
+...
+
+...{
+
+    ...
+
+      ...stripe = window.Stripe("pk_test_XiirziufElakjoOpyuyCrPfo")
+
+      //                           stripeKey 🔑
+
+    }
+
+    ... redirectToCheckout(event) {
+
+      ...
+
+      const { ... } = ... ....stripe.redirectToCheckout({
+
+        ...,
+
+        successUrl: `https://www.usepow.app/HeisannHoppsannKarlson`
+
+        ...
+
+      })
+
+      if (...) {...("...:", ...)}
+
+    }
+
+    ...
+
+     ...
+
+      <button
+
+        onClick={(event) => this.redirectToCheckout(event)}
+
+      >
+
+        Invest in POW! $54
+
+      </button>
+
+...
 
 
 The Assassin, the future Queen and her undercover POW! Ladies

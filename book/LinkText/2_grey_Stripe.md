@@ -1,20 +1,30 @@
+1. Take out your Lilly Building Note Book and your favorite pen or pencil. Open to a clean double page. Follow my instructions in 6 to 14 and you will build this pretend site in your "terminal 💀":
+
+2. Start in the top right corner and go x pinky nails to the left. Write
+
+
+9. Open ... or pen a clean double page
+10. Start in the top right corner and go x pinky nails to the left.
+11. Draw
+Write
+.../AngelsCheckout.js 👼
 
 
 
-
-6.
+13.
 you will build this ______ in your book:
 
 ...
 ...{
     ...
       ...stripe = window.Stripe("pk_test_XiirziufElakjoOpyuyCrPfo")
+//                               stripeKey 🔑
     }
     ... redirectToCheckout(event) {
       ...
       const { ... } = ... ....stripe.redirectToCheckout({
-        items: [{ sku: "sku_Fvit7rtTpQFLdF", quantity: 1 }],
-        successUrl: `https://www.usepow.app/YoHoho`
+        ...,
+        successUrl: `https://www.usepow.app/RommetTilLillebror`
         ...
       })
       if (...) {...("...:", ...)}

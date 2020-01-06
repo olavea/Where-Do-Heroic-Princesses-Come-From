@@ -154,7 +154,7 @@ Lilly Labs: a teeny-tiny IT-consultancy | 997 85 291
 
 P.S.
 Lillian's father looks up at Lillian from reading. She has been listening to him reading out loud and now she can tell he will ask one of his questions.
-"Pellæ says, "A girls gotta practice her REAL craft," which of the Crypto Laws does that remind you of?" He looks at Lillian with That Look.
+"Pellæ says, "A girls gotta practice her REAL craft,"which of the Crypto Laws does that remind you of?" He looks at Lillian with That Look.
 "It reminds me of The Third Crypto​ Law." Lillian answers with confidence.
 "Good. What then is The Third Crypto​ Law?" Asks her dad.
 "Know Your Crypto Tools." Lillian Says.

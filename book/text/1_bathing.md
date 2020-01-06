@@ -1,5 +1,5 @@
 Where Do Heroic Girls Come From?
-Page 1
+Page 00
 
 A red haired girl and a blonde girl, are bathing in the stream. Their elders would not approve, but the redhead don't care, she is not quite fifteen years old, the blonde girl is thirteen years.
 

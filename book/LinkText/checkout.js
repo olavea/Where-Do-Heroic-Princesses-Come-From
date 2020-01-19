@@ -3,6 +3,7 @@ import React from "react"
 const Checkout = class extends React.Component {
   componentDidMount() {
     this.stripe = window.Stripe("pk_test_XiirziufElakjoOpyuyCrPfo")
+    //                           stripe key
   }
   async redirectToCheckout(event) {
     event.preventDefault()

@@ -1,4 +1,4 @@
-`video: https://vimeo.com/42672205`
+
 
 Lilly (13) sat alone in her room with unfocused eyes directed at the open window. The laptop in front of her forgotten.
 
@@ -57,6 +57,23 @@ Lilly climbed after and saw Ruby beside the tiny, blue, backyard shed. The door 
 
 "London here we come!" Ruby said.
 
-"Even if we get no error message that's not going to work because..."
+"Even if we get no error message that's not going to work because..." Lilly said.
+
+------------------->
+
+"Only one way to find out" Ruby's grabbed Lilly's lower arm and dragged her into the tiny shed. "Please close the door after ourself. That is the 'event' that starts our redirectToCheckout." Ruby said.
+
+Lilly closed the door and waited in the semi darkness counting silently "1, 2, 3, ..." Nothing happened, of course.
+
+"I am opening this door now." Lilly said and stepped into sunshine and a wall of flower fragnance on a flower filled rooftop porch.
+
+"Wow! WHAT a vieeeeew! LOOK at that glittering river, it glitters like ... GLITTER!" Lilly shouted, turning in a tiny circle with her arms out.
+
+"And THAT's why people call me Ruby 'AJAX' Rooftop. Where the 'X' stands for e-Xtreme and the last 'A' stands for Adventure." Ruby bowed elaboratley in the door of her tiny pink house.
 
 
+
+
+." Lilly said.
+
+." Ruby said.

@@ -1,5 +1,5 @@
 Tea for Two
-Te for to på takterassen
+
 
 "Wouldn't tea be tasty? Hm!?" Said Ruby. "My mild tea and my crunchy, chocolate buiscuits on my sunlit porch. Away from this... HORRIBLE house arrest."
 
@@ -40,9 +40,24 @@ Elizabeth held the Talkman to her lips.
 
 While Ruby attached the Talkman to the left claw of a magnificent, pink parrot with a glossy, black tophat. Ruby used a roll of some sticky, silvery, thing and a lot of inventive swear words. Cursing the sticky roll and cursing the pink parrot until the bird glided gracefully towards the river. Elizabeth and Ruby landed in Elizabeth's room in time to hear a knock at the door and "Please unlock, we know you are in there." In a polite, cultured and firm voice.
 
+"So I am off to the Tower then James?" Said Elizabeth.
 
+"Yes my Lady, but don't worry we will keep you safe." the polite, cultured and firm voice answered from outside the door.
 
+"I will just put on something decent first, you will just wait a bit, will you not James?"
 
-." Said Elizabeth.
+"Off course my Lady, the boys and me we will wait." the polite, cultured and firm voice answered from outside the door.
 
-" Said Ruby.
+"Let's go and hide you somewhere." whispered Ruby.
+
+"I will NOT run from my sister. I am the only one who dares stand up to her." Whispered Elizabeth.
+
+"I will find somebody who can get you out of the Tower." Whispered Ruby.
+
+"Yes, I trust you to find the right person for the job. Somebody without political or family ties here in London. So that means for example NOT you. Your hands must be 100% clean. A person with political or family ties here in London will make the rescue look like treason against my sister the Queen. But an independent actor with No Agenda is harder to make a treason case against." Whispered Elizabeth.
+
+"I know just the young lady to get the job done." Whispered Ruby.
+
+"Great. Tell me no names. Thank you. Good luck and goodbye." Elizabeth whispered and bent down and kissed Ruby on her brow.
+
+"rrr-RRR" Ruby flew out the window and Elizabeth opened the door to a row of soldiers in shining armour.

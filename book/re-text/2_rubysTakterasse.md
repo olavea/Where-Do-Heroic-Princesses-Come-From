@@ -6,9 +6,9 @@ Lilly (7) satt alene på rommet sitt og stirret tomt ut det lille, åpne vinduet
 
 "rr-RRR-RRR!" Rotorlyden som nærmet seg fikk Lilly til å smile.
 
-"Haaallååååå!! Ruuuubyyy!!" Ropte Lilly ut vinduet.
+"Haaallååååå!! Rrrruuuubyyy!!" Ropte Lilly ut vinduet.
 
-
+"Haaallååååå. Liillyyyy." Sa Ruby og fyllte det lille vinduet med et smilende fjes og en rosa kjole med store gule blomster. Når hun hang stille i lufta hørtes bare en lav summing fra propellen på ryggen.<>
 
 
 

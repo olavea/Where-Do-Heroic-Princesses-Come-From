@@ -6,8 +6,7 @@ Dad and me, we connected the Stripe API to the POW! page. Because Mom wanted us 
 
 This is what Dad told me to do:
 
-
-Tiny Tasks in two parts
+You start with
 
 Tiny Tasks Part One
 

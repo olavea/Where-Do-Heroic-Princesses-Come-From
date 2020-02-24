@@ -92,7 +92,7 @@ Copy this into your sketchNote book to make your pretend "VS Code":
 ...
                                        VS Code 💀​over and out
 
-A logline for the tiny tale about flying out the window
+
 
 "OK Lizabeth, I know who you need now, The World's Most Reckless inventoress!" Said Ruby.
 

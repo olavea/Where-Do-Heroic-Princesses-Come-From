@@ -1,9 +1,12 @@
-Ruby is on the verge of testing her testable time machine prototype made to help one half sister escape with her life from their other hateful half sister.
+Lilly and Ruby the Reckless Inventoress
 
-(To be continued
+Ruby is on the verge of testing her time machine prototype. If
+the time machine prototype works Ruby can save her favourite sister's life by escaping from their hateful half sister, Mary.
+
+(To be cont.ed
 #LillyAndRubyAndRoboUnicorny
 Part 001)
-+4
+0
 
 The rude and reckless inventoress Ruby is discovered by her hateful half sister's spy. Ruby's only choice is to force the sneaky spy to join her on the test time travel, landing them is Oslo, Norway of our time.
 
@@ -55,13 +58,13 @@ Revenge
 On
 Idiots:
 
-A long list of personal enemies he wants to see dead. Including Ruby's sister Lizabeth.
+A long list of personal enemies he wants to see dead. Including Ruby's little sister Lizabeth.
 
 
 (To be continued
 #LillyAndRubyAndRoboUnicorny
 Part 008)
--28
+-28 ++
 
 
 (To be continued

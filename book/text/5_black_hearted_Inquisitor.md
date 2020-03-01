@@ -57,7 +57,7 @@ To be continued.
 
 In those times black hearted Inquisitors and their black masked Practicals were a common sight on the roads. And you reader, who think that those two girls were bathing this spring in the stream are much mistaken. Where is that Inquisitor now? And where are all those people you will meet in this email book, talking, laughing, crying, lying? They are all dust or ashes.
 
-So put aside this years calendar reader, and in your mind bring out the calendar for 1569. You are now living in May of that year, and you are under the rule of Queen Elizabeth 1. A rule made weak by the stong hands of enemies outside Britain and made weak by the cunning hands of enemies inside the walls of London.
+So put aside this years calendar reader, and in your mind bring out the calendar for 1554. You are now living in May of that year, and you are under the rule of Queen Elizabeth 1. A rule made weak by the stong hands of enemies outside Britain and made weak by the cunning hands of enemies inside the walls of London.
 
 Pellæ has day dreamed about dramatically saving the hansome young Queen from assasination attempts. Now Pellæ needs to save herself and her new friend from the chains of the Inquisition. The Inquisition is not the real name of the sneaky secret police force organized by Elizabeth's left hand man, Sir Francis Walsingham, it is just Pellæ's nick name for them.
 

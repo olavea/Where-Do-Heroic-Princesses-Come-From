@@ -1,14 +1,13 @@
 On the verge of saving her little sisters life, Reckless Ruby instead crash lands her time machine in Oslo, Norway, some 465ish years into the future (this year).
 
-Ruby decides to rebuild her time machine with pieces of wonky web tech.
+Ruby's only choice is to rebuild her time machine with wonky web tech.
 
 (To be cont'd
 #LillyAndRecklessRuby
 Part 001)
 
-To learn Ruby takes a web dev job in a start up. Soon she climbs a React learning curve from hell, mentored by her co-worker the playful programmer and pre-schooler Lilly (6 🦄).
-
-17 days before the launch party the CEO, says: ...
+To learn Ruby takes a web dev job in the start up POW! She starts climbing a React learning curve from hell, mentored by the playful programmer and pre-schooler Lilly (6 🦄).
+But 17 days before the launch party the CEO, says: ...
 
 (To be cont'd
 #LillyAndRecklessRuby

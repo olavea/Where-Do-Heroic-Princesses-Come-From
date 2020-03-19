@@ -4,7 +4,7 @@ Ruby's only choice is to rebuild her time machine with wonky web tech.
 
 (To be cont'd
 #LillyAndRecklessRuby
-Part 001)
+Page 001)
 
 To learn rebuilding Ruby takes a #webdev job in the startup POW!
 
@@ -32,7 +32,7 @@ Page 003)
 #LillyAndRecklessRuby
 Page 004)
 
--62
+
 ___
 Chapter 1
 

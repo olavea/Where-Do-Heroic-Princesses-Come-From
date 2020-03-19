@@ -4,48 +4,54 @@ Ruby's only choice is to rebuild her time machine with wonky web tech.
 
 (To be cont'd
 #LillyAndRecklessRuby
-Part 001)
+Page 001)
 
-To learn Ruby takes a web dev job in the start up POW! She starts climbing a React learning curve from hell, mentored by the playful programmer and pre-schooler Lilly (6 🦄).
+To learn rebuilding Ruby takes a #webdev job in the startup POW!
+
+Ruby starts climbing a #React learning curve from hell, mentored by the playful programmer Lilly (13 🦄) .
+
 But 17 days before the launch party the CEO, says: ...
 
 (To be cont'd
 #LillyAndRecklessRuby
-Part 002)
+Page 002)
 
 "Let's build a better back end with @UserbaseHQ."
 
-Ruby must learn to program playfuller together with Lilly (6 🦄) to help finish The POW! Product before launch AND re-build the time machine in time to save her sister's life  ...
+Ruby must learn to program playfuller together with Lilly (13 🦄) to help finish The POW! Product before launch AND re-build her time machine in time to save her sister's life  ...
 
 (To be cont'd
 #LillyAndRecklessRuby
-Part 003)
+Page 003)
 
 
 
-... by outsmarting their hateful half sister Mary the First.
+... by outsmarting murderously majestic Mary. Lilly (13 🦄) and Reckless Ruby must stop Mary's evil plan to execute a long list of personal enemies, including Ruby's little sister Lizabeth.
 
-The clock is ticking like a bomb back in the 1550s. Because
-the now murderously majestic Mary is being manipulated by her mysterious and malevolent spy master who only wants his ROI:
+(To be cont'd
+#LillyAndRecklessRuby
+Page 004)
 
-Revenge
-On
-Idiots:
-
-A long list of personal enemies he wants to see dead. Including Ruby's sister Lizabeth.
 
 ___
+Chapter 1
+
 
 In a family owned start up.
 
 -----
+Mary's Masterpla
+ROI, short for Revenge On Idiots
+
+__
+
 Print out this part:
 
 BUT when the launch party is 13 days away the CEO, Benedicte, starts smilingly rebuilding The POW! Product with a shiny, new and better back end.
 
 Thus risking the timeline of Ruby's rescue of her half sister.
 
-Ruby must learn to program playfuller together with Lilly (6 🦄) to help finish The POW! Product AND re-build the time machine in time to save her sister's life by outsmarting their hateful half sister Mary the First.
+Ruby must learn to program playfuller together with Lilly (13 🦄) to help finish The POW! Product AND re-build the time machine in time to save her sister's life by outsmarting their hateful half sister Mary the First.
 
 Print out this part:
 -----

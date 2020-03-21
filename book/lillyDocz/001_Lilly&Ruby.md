@@ -1,4 +1,4 @@
-On the verge of saving her little sisters life, Reckless Ruby instead crash lands her time machine in Oslo, Norway, some 465ish years into the future (this year).
+On the verge of saving her little sisters life, Reckless Ruby instead crash lands her time machine in Oslo, Norway, some 465ish years into the future (2020).
 
 Ruby's only choice is to rebuild her time machine with wonky web tech.
 
@@ -23,6 +23,30 @@ Ruby must learn to program playfuller together with Lilly (13 🦄) to help fini
 (To be cont'd
 #LillyAndRecklessRuby
 Page 003)
+
+jump to chapter 8
+We can work on our side project while the CEO is away. The
+
+
+
+router is not working
+
+
+
+So we connect cables directley between
+
+✏️button
+
+Year rotor
+
+Because it is just a test run
+
+
+
+I`ll enter the right year just in case it works.
+
+«What!? I don`t want to travel back to 1554 today,» Lilly said and pushed the arrowbackbutton
++40
 
 
 

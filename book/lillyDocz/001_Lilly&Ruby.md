@@ -25,28 +25,26 @@ Ruby must learn to program playfuller together with Lilly (13 🦄) to help fini
 Page 003)
 
 jump to chapter 8
-We can work on our side project while the CEO is away. The
+We can work on our time machine side project while the CEO is away. The
+---
+... while the CEO is not looking. The junior #webdevs rebuild the time machine.
+
+"This 🐀 router is not working." Said Ruby 😼.
+
+"Yeah, so I hooked the EDIT-button directly up to the YEAR-picker." Said Lilly 😺.
+
+(To be cont'd
+#LillyAndRecklessRuby
+Page 004)
 
 
+"Yesss! I`ll enter year 1554 just in case this test run ACTUALLY works." Said Ruby
 
-router is not working
+«What!? Our CEO will freak out if we travel back to 1554 BEFORE the Launch Party!» Lilly said and pushed the arrowbackbutton
 
-
-
-So we connect cables directley between
-
-✏️button
-
-Year rotor
-
-Because it is just a test run
-
-
-
-I`ll enter the right year just in case it works.
-
-«What!? I don`t want to travel back to 1554 today,» Lilly said and pushed the arrowbackbutton
-+40
+(To be cont'd
+#LillyAndRecklessRuby
+Page 005)
 
 
 
